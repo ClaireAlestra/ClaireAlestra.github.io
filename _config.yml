@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Claire Alestra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Economics at Aix-Marseille School of Economics (AMSE)"
   location         : "Marseille"
-  employer         : "Aix-Marseille School of Economics (AMSE)"
+  employer         : #"Aix-Marseille School of Economics (AMSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "claire.alestra@univ-amu.fr"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/claire-alestra-803049161/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
