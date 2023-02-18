@@ -87,7 +87,7 @@ author:
   employer         : #"Aix-Marseille School of Economics (AMSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  claire.alestra@univ-amu.fr            : "claire.alestra@univ-amu.fr"
+  email            : "claire.alestra@univ-amu.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/claire-alestra-803049161/"
+  linkedin         : "claire-alestra-803049161/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
