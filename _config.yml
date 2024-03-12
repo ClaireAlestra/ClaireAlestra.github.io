@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Claire Alestra"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics at Aix-Marseille School of Economics (AMSE)"
-  location         : "Marseille"
-  employer         : #"Aix-Marseille School of Economics (AMSE)"
+  bio              : "Postdoctoral Fellow in Economics at Paris School of Economics (PSE)"
+  location         : "Paris"
+  employer         : #"Paris School of Economics (PSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "claire.alestra@univ-amu.fr"
+  email            : "claire.alestra@psemail.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
