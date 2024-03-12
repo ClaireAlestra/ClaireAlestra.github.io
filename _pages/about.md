@@ -10,9 +10,9 @@ redirect_from:
 
 <br>
 
-**Applied Environmental Economist**, research interests: Policy Impact Evaluation, Climate, Energy, Health and Labour Economics.
+**Applied Environmental Economist**, research interests in Policy Impact Evaluation, Climate, Energy, Health and Labour Economics.
 
-**Postdoctoral Fellow** at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) and the ["Urban New Deal" Research Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/urban-new-deal-chair/).
+**Postdoctoral Fellow** at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) and the ["Urban New Deal" Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/urban-new-deal-chair/).
 
 **Associate Researcher** at [Centre International de Recherche sur l'Environnement et le Développement (CIRED)](https://www.centre-cired.fr/en/) and [Centre de formation sur l’environnement et la société (CERES, ENS-PSL)](https://ceres.ens.fr/).
 
@@ -22,7 +22,7 @@ redirect_from:
 
 ## Contact
 
-Paris School of Economics
+Paris School of Economics <br>
 Jourdan Campus – 48 boulevard Jourdan, 75014 Paris <br>
 Building Oïkos, 4th floor, office 60  <br>
 [claire.alestra@psemail.eu](claire.alestra@psemail.eu)
