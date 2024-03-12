@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Claire Alestra"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow"
-  employer         : "Paris School of Economics (PSE)"
+  bio              : "Postdoctoral Fellow in Applied Environmental Economics"
+  :classical_building: "Paris School of Economics (PSE)"
   location         : "Paris"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
