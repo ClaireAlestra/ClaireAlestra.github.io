@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Claire Alestra"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow in Economics at Paris School of Economics (PSE)"
+  bio              : "Postdoctoral Fellow"
+  employer         : "Paris School of Economics (PSE)"
   location         : "Paris"
-  employer         : #"Paris School of Economics (PSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "claire.alestra@psemail.eu"
