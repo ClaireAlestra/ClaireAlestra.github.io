@@ -87,7 +87,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "claire.alestra@psemail.eu"
-  researchgate     : example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              : "a"
   bitbucket        : "a"
   codepen          : "a"
