@@ -130,9 +130,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-  sidebar:
-  - image: "pse-logo-hd.jpg"
-    image_alt: "image"
+sidebar_logo_link: "pse-logo-hd.jpg"
   
 # Reading Files
 include:
