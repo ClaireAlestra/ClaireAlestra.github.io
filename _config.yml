@@ -133,8 +133,6 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-![PSE Logo](/images/pse-logo-hd.jpg) 
-
 # Reading Files
 include:
   - .htaccess
