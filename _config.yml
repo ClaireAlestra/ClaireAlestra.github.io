@@ -69,6 +69,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+      label: "University"
+      icon: # "fas fa-university"
+      url: # "https://www.parisschoolofeconomics.eu/en/"
 
 
 # Analytics
@@ -83,9 +86,6 @@ author:
   name             : "Claire Alestra"
   avatar           : "profile-picture.JPG"
   bio              : "Postdoctoral Fellow in Applied Environmental Economics"
-  label: "University"
-      icon: # "fas fa-university"
-      url: # "https://www.parisschoolofeconomics.eu/en/"
   location         : # "Paris"
   employer         : "Paris School of Economics (PSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -117,7 +117,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : # "pse-logo-hd.jpg"
+  wikipedia        : 
 
 # Reading Files
 include:
