@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Claire Alestra"
-  avatar           : "29-12-2022-12-03-21-24.JPG"
+  avatar           : "profile_photo.JPG"
   bio              : "Postdoctoral Fellow in Applied Environmental Economics"
   location         : # "Paris"
   employer         : "Paris School of Economics (PSE)"
@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
+![Logo PSE](pse-logo-hd.jpg)
 
 # Reading Files
 include:
