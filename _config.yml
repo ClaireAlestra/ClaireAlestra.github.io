@@ -131,6 +131,8 @@ author:
   zhihu            : # URL
 
 sidebar_logo_link: "pse-logo-hd.jpg"
+textbook_logo             : pse-logo-hd.jpg  # A logo to be displayed at the top of your textbook sidebar
+textbook_logo_link        : https://www.parisschoolofeconomics.eu/en/alestra-claire/
   
 # Reading Files
 include:
