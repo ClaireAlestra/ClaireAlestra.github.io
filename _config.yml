@@ -114,9 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-
-[[https://github.com/ClaireAlestra/ClaireAlestra.github.io/edit/main/images/pse-logo-hd.jpg|alt=pse-logo-hd]]
+  wikipedia        : "pse-logo-hd.jpg"
 
 # Reading Files
 include:
