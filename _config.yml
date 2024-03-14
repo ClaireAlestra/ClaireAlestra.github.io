@@ -129,6 +129,10 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+
+  sidebar:
+  - image: "pse-logo-hd.jpg"
+    image_alt: "image"
   
 # Reading Files
 include:
