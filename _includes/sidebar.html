@@ -23,3 +23,9 @@
   {% endif %}
   </div>
 {% endif %}
+
+{% if site.sidebar_logo_link | length < 1 %}
+{% capture sidebar_logo %}{{ site.baseurl | relative_url }}
+{% else %}
+{% capture sidebar_logo_link %}{{ site.sidebar_logo_link }}
+{% endif %}
