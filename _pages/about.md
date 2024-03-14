@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow
 <br>
 
 **Applied Environmental Economist** with research interests in Policy Impact Evaluation, Climate, Energy, Health and Labour Economics.
