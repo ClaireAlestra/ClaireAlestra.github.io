@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Claire Alestra"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
