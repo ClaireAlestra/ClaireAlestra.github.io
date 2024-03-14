@@ -84,8 +84,8 @@ author:
   avatar           : "profile-picture.JPG"
   bio              : "Postdoctoral Fellow in Applied Environmental Economics"
   label: "University"
-      icon: "fas fa-university"
-      url: "https://www.parisschoolofeconomics.eu/en/"
+      icon: # "fas fa-university"
+      url: # "https://www.parisschoolofeconomics.eu/en/"
   location         : # "Paris"
   employer         : "Paris School of Economics (PSE)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -117,7 +117,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "pse-logo-hd.jpg"
+  wikipedia        : # "pse-logo-hd.jpg"
 
 # Reading Files
 include:
