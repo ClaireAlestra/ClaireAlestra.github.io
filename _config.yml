@@ -69,10 +69,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-      label: "University"
-      icon: # "fas fa-university"
-      url: # "https://www.parisschoolofeconomics.eu/en/"
-
 
 # Analytics
 analytics:
@@ -118,6 +114,10 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
 
 # Reading Files
 include:
