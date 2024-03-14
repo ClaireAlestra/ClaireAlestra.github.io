@@ -82,46 +82,38 @@ author:
   name             : "Claire Alestra"
   avatar           : "profile-picture.JPG"
   bio              : "Postdoctoral Fellow in Applied Environmental Economics"
-  location         : # "Paris"
+  location         : "Paris"
   employer         : "Paris School of Economics (PSE)"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "claire.alestra@psemail.eu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  researchgate     : example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : "a"
+  bitbucket        : "a"
+  codepen          : "a"
+  dribbble         : "a"
+  flickr           : "a"
+  facebook         : "a"
+  foursquare       : "a"
+  github           : "academicpages"
+  google_plus      : "a"
+  keybase          : "a"
+  instagram        : "a"
+  impactstory      : "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           : "a"
   linkedin         : "claire-alestra-803049161/"
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        : 
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        : "a"
+  soundcloud       : "a"
+  stackoverflow    : http://stackoverflow.com/users/123456/username
+  steam            : "a"
+  tumblr           : "a"
+  twitter          : "replacethistwitterhandle"
+  vine             : "a"
+  weibo            : "a"
+  xing             : "a"
+  youtube          : "a"
+  wikipedia        : "a"
 
 # Reading Files
 include:
