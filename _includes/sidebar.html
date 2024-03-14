@@ -24,8 +24,7 @@
   </div>
 {% endif %}
 
-{% if site.sidebar_logo_link | length < 1 %}
-{% capture sidebar_logo %}{{ site.baseurl | relative_url }}
-{% else %}
-{% capture sidebar_logo_link %}{{ site.sidebar_logo_link }}
-{% endif %}
+{% if site.textbook_logo %}
+<a href="{{ site.textbook_logo_link }}">
+  <img src="{{ site.textbook_logo | relative_url }}" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/>
+</a>{% endif %}
