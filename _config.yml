@@ -129,15 +129,9 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
-        {% if site.textbook_logo %}
-      <a href="{{ site.textbook_logo_link }}">
-      <img src="{{ site.textbook_logo | relative_url }}" width="50" height="50" align="left" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/>
-      </a>{% endif %}
-
-textbook_logo             : images/pse-logo-hd.jpg  # A logo to be displayed at the top of your textbook sidebar
-textbook_logo_link        : https://www.parisschoolofeconomics.eu/en/alestra-claire/
-  
+  textbook_logo             : images/pse-logo-hd.jpg  # A logo to be displayed at the top of your textbook sidebar
+  textbook_logo_link        : https://www.parisschoolofeconomics.eu/en/alestra-claire/
+ 
 # Reading Files
 include:
   - .htaccess
