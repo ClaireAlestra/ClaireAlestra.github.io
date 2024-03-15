@@ -13,4 +13,4 @@ This paper highlights how technology can contribute to reaching the 2015 Paris A
 
 [Download paper here](https://doi.org/10.1080/00036846.2023.2227416)
 
-Recommended citation: Alestra, C., Cette, G., Chouard, V. and Lecat, R. (2023). "How can technology significantly contribute to climate change mitigation?" <i>Applied Economics</i>. 
+Citation: Alestra, C., Cette, G., Chouard, V. and Lecat, R. (2023). "How can technology significantly contribute to climate change mitigation?" <i>Applied Economics</i>. 
