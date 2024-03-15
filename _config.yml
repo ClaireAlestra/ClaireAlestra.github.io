@@ -49,7 +49,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-<img src="pse-logo-hd.jpg" alt="PSE Logo">
+textbook_logo             : images/pse-logo-hd.jpg  # A logo to be displayed at the top of your textbook sidebar
+textbook_logo_link        : https://www.parisschoolofeconomics.eu/en/alestra-claire/
 
 # SEO Related
 google_site_verification :
