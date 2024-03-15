@@ -5,7 +5,7 @@ permalink: /publication/2023-ACCL-technology
 excerpt: 'With Gilbert Cette, Valérie Chouard and Rémy Lecat'
 date: 2023-07-04
 venue: "Applied Economics"
-paperurl: 'https://doi.org/10.1080/00036846.2023.2227416'
+paperurl: 
 citation:
 ---
 
