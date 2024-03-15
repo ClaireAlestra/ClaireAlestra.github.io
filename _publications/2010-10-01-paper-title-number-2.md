@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Growth impact of climate change and response policies: The advanced climate change long-term (ACCL) model."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-ACCL
+excerpt: 'This paper provides a tool to build climate change scenarios to forecast Gross Domestic Product (GDP), modelling both GDP damage due to climate change and the GDP impact of mitigating measures. It adopts a supply-side, long-term view, with 2060 and 2100 horizons. It is a global projection tool (30 countries/regions), with assumptions and results both at the world and the country/regional level. Five different types of energy inputs are taken into account according to their CO2 emission factors. Full calibration is possible at each stage, with estimated or literature-based default parameters. Compared to other models, it provides a comprehensive modelisation of Total Factor Productivity (TFP), which is the most significant determinant of the GDP projected path. We present simulation results of different energy policy scenarios. They illustrate both the "tragedy of the horizon" and the "tragedy of the commons", which call for a policy framework that adequately integrates a long run perspective, through a low-enough discount rate and an effective intergenerational solidarity as well as international cooperation.'
+date: 2022-01-01
+venue: 'Journal of Policy Modeling'
+paperurl: 'https://doi.org/10.1016/j.jpolmod.2021.10.001'
+citation: 'Alestra, C., Cette, G., Chouard, V. and Lecat, R. (2022). "Growth impact of climate change and response policies: The advanced climate change long-term (ACCL) model." <i>Journal of Policy Modeling 44</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper provides a tool to build climate change scenarios to forecast Gross Domestic Product (GDP), modelling both GDP damage due to climate change and the GDP impact of mitigating measures. It adopts a supply-side, long-term view, with 2060 and 2100 horizons. It is a global projection tool (30 countries/regions), with assumptions and results both at the world and the country/regional level. Five different types of energy inputs are taken into account according to their CO2 emission factors. Full calibration is possible at each stage, with estimated or literature-based default parameters. Compared to other models, it provides a comprehensive modelisation of Total Factor Productivity (TFP), which is the most significant determinant of the GDP projected path. We present simulation results of different energy policy scenarios. They illustrate both the "tragedy of the horizon" and the "tragedy of the commons", which call for a policy framework that adequately integrates a long run perspective, through a low-enough discount rate and an effective intergenerational solidarity as well as international cooperation.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1016/j.jpolmod.2021.10.001)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Alestra, C., Cette, G., Chouard, V. and Lecat, R. (2022). "Growth impact of climate change and response policies: The advanced climate change long-term (ACCL) model." <i>Journal of Policy Modeling 44</i>. 1(2).
