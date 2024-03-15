@@ -17,6 +17,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Work in Progress
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
