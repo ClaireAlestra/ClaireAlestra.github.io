@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Tutorials"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Aix-Marseille University"
+date: 2019-10-01 2022-06-01
+location: "Marseille, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Statistical Techniques, Macroeconomics, Industrial Organisation, Microeconomics.
 
 Heading 1
 ======
