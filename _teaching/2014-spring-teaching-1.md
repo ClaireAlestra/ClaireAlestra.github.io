@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Tutorials"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2019-2022-teaching-assistant
 venue: "Aix-Marseille University, 2019-2022"
-date: #2019-10-01
+#date: 2019-10-01
 location: "Marseille, France"
 ---
 
