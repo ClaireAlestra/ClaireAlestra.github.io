@@ -4,17 +4,10 @@ collection: teaching
 type: "Undergraduate Tutorials"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Aix-Marseille University"
-date: 2019-10-01 2022-06-01
+date: 2019-2022
 location: "Marseille, France"
 ---
 
-Statistical Techniques, Macroeconomics, Industrial Organisation, Microeconomics.
+<br>Statistical Techniques, Macroeconomics, Industrial Organisation, Microeconomics.</br>
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
