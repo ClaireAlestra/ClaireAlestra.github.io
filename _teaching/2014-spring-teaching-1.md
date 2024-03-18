@@ -8,6 +8,10 @@ date: 2019-10-01
 location: "Marseille, France"
 ---
 
-<b><u>2022-2019:</u> Statistical Techniques, Macroeconomics, Industrial Organisation, Microeconomics.</b>
+<b>2022-2019: 
+*Statistical Techniques, 
+*Macroeconomics, 
+*Industrial Organisation, 
+*Microeconomics.</b>
 
 
