@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="CV.pdf">Download CV (in English)</a>
+<a href="/files/CV.pdf" download="download">Download CV (in English)</a>
 
 
 
