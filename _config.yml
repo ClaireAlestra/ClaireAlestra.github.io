@@ -200,7 +200,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-    show_date: false
 
 
 # Defaults
@@ -258,6 +257,7 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+      show_date: false
 
 # Sass/SCSS
 sass:
