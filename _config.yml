@@ -200,6 +200,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+    show_date: false
 
 
 # Defaults
