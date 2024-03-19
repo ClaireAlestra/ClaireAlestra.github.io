@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Tutorials"
 permalink: /teaching/2019-2022-teaching-assistant
 venue: "Aix-Marseille University"
-date: 2019-10-01 
+date: "2019-10-01 to 2022-01-01"
 location: "Marseille, France"
 ---
 
