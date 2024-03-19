@@ -257,7 +257,6 @@ defaults:
       layout: talk
       author_profile: true
       share: false
-      show_date: false
 
 # Sass/SCSS
 sass:
