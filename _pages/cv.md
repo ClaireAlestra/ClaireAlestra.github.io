@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here (in English)](files/CV.pdf)
-<br>
-[Download CV here (in French)](files/CV_fr.pdf)
+<a href="files/CV.pdf">Download CV (in English)</a>
+
+
+
+[Download CV (in French)](files/CV_fr.pdf)
