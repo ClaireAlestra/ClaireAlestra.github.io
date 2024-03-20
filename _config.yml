@@ -109,7 +109,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goods        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
@@ -130,7 +130,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Reading Files
+# ing Files
 include:
   - .htaccess
   - _pages
@@ -147,7 +147,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - ME
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -211,7 +211,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
