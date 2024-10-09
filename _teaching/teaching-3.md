@@ -8,5 +8,5 @@ date: 2024-10-01
 location: "Paris, France"
 ---
 
-<b>2024-2025:</b> 
+<b>2025-2024:</b> 
 * Statistics-Econometrics
