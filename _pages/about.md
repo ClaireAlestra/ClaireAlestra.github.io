@@ -15,7 +15,7 @@ redirect_from:
 
 **Postdoctoral Fellow** at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) and the [Urban New Deal Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/urban-new-deal-chair/).
 
-**Associate Researcher** at [Centre International de Recherche sur l'Environnement et le Développement (CIRED)](https://www.centre-cired.fr/en/) and [Centre de formation sur l’environnement et la société (CERES, ENS-PSL)](https://ceres.ens.fr/).
+**Associate Researcher** at [Centre de formation sur l’environnement et la société (CERES, ENS-PSL)](https://ceres.ens.fr/).
 
 **PhD thesis** titled *"Policy Impact Evaluation of Energy and Environmental Transitions"* at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en), under the supervision of [Olivier Chanel](https://www.amse-aixmarseille.fr/en/members/chanel) and [Sarah Flèche](https://sites.google.com/site/sarahfleche/home). 
 
