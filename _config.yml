@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Claire Alestra"
-logo: "images/pse-logo-hd.jpg"
 title_separator          : "-"
 name                     : &name "Claire Alestra"
 description              : &description "personal description"
