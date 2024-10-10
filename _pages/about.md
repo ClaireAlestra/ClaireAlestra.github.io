@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Claire Alestra"
-excerpt: "About me"
+excerpt:
 subtitle: "Postdoctoral Fellow"
 author_profile: true
 redirect_from: 
