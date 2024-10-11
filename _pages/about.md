@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt:
-subtitle: "Postdoctoral Fellow"
+subtitle: 
 author_profile: true
 redirect_from: 
   - /about/
