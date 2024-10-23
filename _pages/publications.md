@@ -17,6 +17,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Working Papers
+
+{% for post in site.WP %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Work in Progress
 
 {% for post in site.portfolio %}
