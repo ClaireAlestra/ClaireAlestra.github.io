@@ -19,7 +19,7 @@ author_profile: true
 
 ## Working Papers
 
-{% for post in site.WP %}
+{% for post in site.WP reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
