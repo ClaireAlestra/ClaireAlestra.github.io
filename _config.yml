@@ -86,7 +86,7 @@ author:
   bio              : "Associate Professor in Applied Environmental Economics"
   location         : "Lyon"
   employer         : "Université Lumière Lyon 2"
-  email            : "mailto:c.alestra@univ-lyon2.fr" 
+  email            : href="mailto:c.alestra@univ-lyon2.fr"c.alestra@univ-lyon2.fr
   uri              : # https://www.parisschoolofeconomics.eu/en/alestra-claire/
 
   # Academic websites
