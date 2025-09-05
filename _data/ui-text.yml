@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   feed_label                 :
   powered_by                 : 
   website_label              : "PSE Webpage"
-  email_label                : "claire.alestra@psemail.eu"
+  email_label                : "c.alestra@univ-lyon2.fr"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
