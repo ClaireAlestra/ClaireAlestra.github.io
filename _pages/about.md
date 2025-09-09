@@ -15,7 +15,7 @@ redirect_from:
 
 **Associate Professor (Maîtresse de Conférences)** at [Groupe d'Analyse et de Théorie Economique Lyon St-Etienne](https://www.gate.cnrs.fr/) and [Université Lumière Lyon 2](https://www.univ-lyon2.fr/).
 
-Previously: 
+## Previously
 
 **Postdoctoral Fellow** at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) and the [Urban New Deal Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/urban-new-deal-chair/).
 
