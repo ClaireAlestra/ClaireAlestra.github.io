@@ -1,7 +1,7 @@
 ---
 title: "Associate Professor"
 collection: teaching
-type: 
+type: ""
 permalink: /teaching/2025-associate-professor
 venue: "Université Lumière Lyon 2"
 date: 2025-10-01 
