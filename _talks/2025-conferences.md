@@ -8,6 +8,6 @@ date: 2025-01-01
 location: 
 ---
 
-* **41st Applied Microeconomics Days (JMA)**, Université de Poitiers (scheduled)
-* **Decentralized Energy Systems Workshop**, Paris School of Economics (PSE), France - Association des Economistes de l'Energie (F-AEE), (scheduled)
-* **46th IAEE International Conference**, International Association for Energy Economics (scheduled)
+* **41st Applied Microeconomics Days (JMA)**, Université de Poitiers
+* **Decentralized Energy Systems Workshop**, Paris School of Economics (PSE), France - Association des Economistes de l'Energie (F-AEE)
+* **46th IAEE International Conference**, International Association for Energy Economics
